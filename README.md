@@ -1,3 +1,3 @@
 # personal-demo
-This is my first git repository
-Author - Sremoyee Bag
+This is my first git repository,
+author - Sremoyee Bag
